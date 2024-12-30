@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alex_fu
 - 👀 I’m devoted to changing life with code
-- 🌱 I’m currently learning swoole
+- 🌱 I’m currently working with php && golang
 - 💞️ I’m looking to get myself better
 - 📫 Email:707924430@qq.com
 
